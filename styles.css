@@ -1,0 +1,19 @@
+.img-perfil{
+    height: 100%;
+    width: 20%;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.download{
+    margin-left: 40%;
+    
+}
+
+.cor-nave{
+    background-color: rgb(155, 156, 155);
+}
+
+.cor-botao{
+    color: cornsilk;
+}
